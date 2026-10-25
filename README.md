@@ -2,34 +2,33 @@
 
 ## About This Repository
 
-This repository documents my hands-on practice with Git and GitHub, focusing on version control concepts and workflows used in software development and DevOps.
+This repository documents my hands-on practice with Git and GitHub. It covers version control fundamentals, branching, merging, undoing changes, and ignoring unwanted files.
 
-I use this repository to practice commands, understand version history, and document examples as I learn.
+The goal is to build a strong foundation in version control for collaborative development and future Cloud/DevOps work.
 
-## Topics Covered
+## Guides
+
+1. [Git Basics](guides/git-basics.md)
+2. [Branching and Merging](guides/branching-and-merging.md)
+3. [Undoing Changes](guides/undoing-changes.md)
+4. [.gitignore Guide](guides/gitignore-guide.md)
+
+## Skills Practiced
 
 - Git configuration and initialization
-- Staging and committing changes
-- Checking repository status and history
-- Branching and merging
-- Undoing changes with `git restore`, `git revert`, and `git reset`
-- Managing ignored files with `.gitignore`
-- Working with remote repositories on GitHub
+- Working directory, staging area, and commits
+- Branch creation, switching, and merging
+- Reviewing commit history and file differences
+- Understanding `git restore`, `git revert`, and `git reset`
+- Ignoring untracked files using `.gitignore`
+- Writing clear commit messages
 
-## Practical Guides
+## Learning Approach
 
-Guides and examples will be added as I complete and test each topic.
+I practice these commands in local test repositories and document their behavior, examples, and important safety considerations.
 
-## Learning Goals
+## Career Goal
 
-- Understand Git's version-control workflow
-- Maintain clear commit history
-- Practice branches and merges
-- Learn safe ways to undo changes
-- Build a foundation for collaborative development and DevOps workflows
+I am developing my Git and GitHub skills as part of my journey from Network Engineering toward Cloud and DevOps.
 
-## Career Direction
-
-I am developing Git and GitHub skills as part of my transition from Network Engineering toward Cloud and DevOps.
-
-**Note:** This repository is a work in progress. Examples will be added and updated as I practice.
+**Status:** Ongoing learning project. Examples and observations are added as I complete and test each exercise.
